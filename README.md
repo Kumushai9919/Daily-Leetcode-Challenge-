@@ -14,3 +14,6 @@ That's my routine! Let's keep learning and improving together! 😻 🙌
 ## My leetcode stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kumush&theme=dark)](https://leetcode.com/Kumush/)
  
+
+### Leetcode tracker:
+* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day1">Day 1 - 2023.06.30</a>
