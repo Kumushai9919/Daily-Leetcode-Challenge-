@@ -1,7 +1,7 @@
 # Day 2 
 
 ## 347. Top K Frequent Elements
-###### Medium  | <a href="[https://leetcode.com/problems/group-anagrams/description/](https://leetcode.com/problems/top-k-frequent-elements/description/)">leetcode link </a> | Array Hash Table String Bucket Sort Counting
+###### Medium  | <a href="https://leetcode.com/problems/top-k-frequent-elements/description/">leetcode link </a> | Array Hash Table String Bucket Sort Counting
 
 
 
