@@ -17,3 +17,4 @@ That's my routine! Let's keep learning and improving together! 😻 🙌
 
 ### Leetcode tracker:
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day1">Day 1 - 2023.06.30</a>
+* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day2">Day 2 - 2023.07.01</a>
