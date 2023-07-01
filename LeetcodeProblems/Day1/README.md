@@ -12,7 +12,7 @@ Input: strs = ["eat","tea","tan","ate","nat","bat"]
 Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 ````
 
-#### 2. Logic:
+#### 2. Approach:
 The logic behind our solution is to group words that are anagrams together in the strs array and return it. 
 To identify anagrams, we have multiple ways to do, for instance the Sorting, we can sort each string in the array and check if sorting strings are anagrams, but it will take ```O(m * nlogn)``` time complexity where **n** is average length of each input strings and that's how much it takes to sort each strings, and we have to do that **m** times, it's basically the length of input strings in the array. So can we do better? 
 Yes, we can also to compare the occurrence of characters in each word by counting the occurrences of each character in a word using an array. For efficient mapping of anagrams, we will use a HashMap.
