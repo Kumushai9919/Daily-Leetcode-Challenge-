@@ -20,6 +20,7 @@ Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefor
 ````
 
 #### 2. Approach:
+The problem is to find the longest consecutive elements sequence in an array. To solve this problem, we can use a HashSet to efficiently check for the presence of elements and find consecutive sequences.This approach allows us to find the longest consecutive sequence in linear time complexity O(n), where n is the number of elements in the input array. The approach can be summarized as follows:
 1. Create a HashSet to store unique elements from the input array.
 2. Iterate through the array and add each element to the HashSet.
 3. Iterate through the array again and for each element, check if it is the starting element of a potential consecutive sequence.
