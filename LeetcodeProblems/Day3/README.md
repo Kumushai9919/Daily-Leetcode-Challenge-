@@ -2,7 +2,7 @@
 
 ## 128. Longest Consecutive Sequence
 
-###### Medium  | <a href="https://leetcode.com/problems/longest-consecutive-sequence/description/">leetcode link </a> | Array Hash Table String Union Find Sorting
+###### Medium  | <a href="https://leetcode.com/problems/longest-consecutive-sequence/description/">leetcode link </a> | Array Hash Table Union Find Sorting
 
 
 
