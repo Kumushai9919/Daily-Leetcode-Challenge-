@@ -23,8 +23,8 @@ That's my routine! Let's keep learning and improving together! 😻 🙌
 
 
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day%205%20"> Day 5 - 2023.07.04</a>  
-<!--* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day4"> Day 6 - 2023.07.05</a> -->
-<!--* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day4"> Day 7 - 2023.07.06</a>-->
+ * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day%206"> Day 6 - 2023.07.05</a>  
+ * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day%207"> Day 7 - 2023.07.06</a> 
 <!--* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day4"> Day 8 - 2023.07.07</a>-->
 <!--* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day4"> Day 9 - 2023.07.08</a>-->
 <!--* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day4"> Day 10 - 2023.07.09</a>-->
