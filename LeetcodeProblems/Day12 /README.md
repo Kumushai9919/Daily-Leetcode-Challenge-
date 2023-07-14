@@ -1,5 +1,5 @@
 # Day 12
-## 153. Find Minimum in Rotated Sorted Array
+## 33. Search in Rotated Sorted Array
 
  
 ###### Medium  | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/">leetcode link </a> | Binary search Array
