@@ -20,8 +20,6 @@ That's my routine! Let's keep learning and improving together! 😻 🙌
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day2">Day 2 - 2023.07.01</a>
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day3"> Day 3 - 2023.07.02</a>
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day4"> Day 4 - 2023.07.03</a>
-
-
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day%205%20"> Day 5 - 2023.07.04</a>  
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day%206"> Day 6 - 2023.07.05</a>  
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day%207"> Day 7 - 2023.07.06</a> 
@@ -30,7 +28,7 @@ That's my routine! Let's keep learning and improving together! 😻 🙌
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day10"> Day 10 - 2023.07.09</a>
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day11"> Day 11 - 2023.07.10</a> 
 * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/blob/main/LeetcodeProblems/Day12%20/README.md"> Day 12 - 2023.07.11</a> 
-<!-- * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day10"> Day 13 - 2023.07.12</a> -->
+* <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day13"> Day 13 - 2023.07.14 </a>  
 <!-- * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day10"> Day 14 - 2023.07.13</a> -->
 <!-- * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day10"> Day 15 - 2023.07.14</a> -->
 <!-- * <a href="https://github.com/Kumushai9919/Daily-Leetcode-Challenge-/tree/main/LeetcodeProblems/Day10"> Day 16 - 2023.07.15</a> -->
