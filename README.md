@@ -1,4 +1,4 @@
-# Daily-Leetcode-Challenge-
+# 15Days-Leetcode-Challenge-
 
 I have taken up this challenge to make solving LeetCode problems a regular part of my daily routine.
 
